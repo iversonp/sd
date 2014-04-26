@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /.settings/org.eclipse.jdt.core.prefs
 /.settings/org.eclipse.m2e.core.prefs
 /sd-business/.settings/org.eclipse.core.resources.prefs
@@ -20,6 +21,8 @@
 /sd-service/.settings/org.eclipse.m2e.core.prefs
 /sd-web/.settings/org.eclipse.jdt.core.prefs
 /sd-web/.settings/org.eclipse.m2e.core.prefs
+=======
+>>>>>>> 2eb566cad985d4e009c50e06e8d22c49d920b1b0
 target/
 .classpath
 .claspath
